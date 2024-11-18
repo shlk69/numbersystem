@@ -35,4 +35,4 @@ const numbers2 = [
 
   console.log("min is ",min);
 
-  
+  // nothing showing on repo
